@@ -1,0 +1,54 @@
+
+		  -----= ERA IVRIM =-----
+			 CHANGELOG
+
+
+
+Version 0.4.3-beta
+ = minor edits
+
+Version 0.4.2-beta
+ = altered unit file layout
+ = changed melee attack of golems to arcane type
+
+Version 0.4.1-beta
+ = Functioning and working beta edition
+ = added descriptions and portraits
+ = altered unit file layout
+
+Version 0.4.0-beta
+ = Functioning and working beta edition
+ = added descriptions
+ = altered melee-attack of ravs/abirs (healers) to arcane, due to their conduit to upper world.
+
+Version 0.3.9
+ = maintenance revision
+ = further downgraded units values and abilities
+ = see discussion: http://forums.wesnoth.org/viewtopic.php?f=19&t=39394#p566460
+
+...
+
+Version 0.3.1
+ = minor edits due to maintenance/bugs/user-requests
+
+Version 0.3.0
+ = Due to many valid and noteworthy tips from Velensk, changed values and specials and macros more to mainline standards
+ = deleted (almost) all custom abilities, traits, movetypes, and weapon specials in favour of the mainline standards
+
+Version 0.2.7
+ = minor bugs fixed (e.g. bad advancement in lvl2 archer..)
+
+Version 0.2.6
+ = maintenance of dependencies/names in folder/files tree
+ = minor value adjustments
+ = minor changes in art
+
+Version 0.2.5
+ = Added the Khalifate faction as a testbase for balance tests and effects of alignment=liminal
+ = New: Featuring 'The Aragwaithi' faction.
+
+Version 0.2.4-alpha
+ = Early alpha release of Era_Ivrim
+
+.....................................................................
+Initially released January,  20th, 2014 on 1.10.x and 1.11.x servers. Taken from The_Ivrim faction.
